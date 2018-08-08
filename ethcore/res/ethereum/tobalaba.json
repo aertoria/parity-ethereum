@@ -29,7 +29,9 @@
 		"maxCodeSize": 24576,
 		"maxCodeSizeTransition": 6666666,
 		"validateChainIdTransition": 6666666,
-		"validateReceiptsTransition" : 6666666
+		"validateReceiptsTransition" : 6666666,
+
+		"registrar": "0xb8624dc8cb3ca3147c178ac4c21734eb49e04071"
 	},
 	"genesis": {
 		"seal": {
